@@ -16,7 +16,7 @@ I'm a B.Sc. student of Amirkabir University of Technology in the Computer Engine
 This project is in progress and also is my bachelor thesis under the supervision of [Prof. Safabakhsh](https://scholar.google.com/citations?user=zFsdqo8AAAAJ&hl=en).  
 This project is about the re-identification of persons using each subject’s gait (unique walking pattern) from their
 specific estimated pose. This project utilizes deep learning approaches like convolutional, pooling, and HPM layers.
-Also, triplet loss is used for training procedures.
+Also, triplet loss is used for training procedures, and DeepSort & YoloV5 models used for tracking and extracting each person in real-world usage.
 
 * **Image Colorizer** <br/>
 Implemented a model with CycleGAN & pix2pix architectures for translating black & white images into colorized images. This model uses Cycle & Identity loss functions because it aims to translate a picture’s attributes to another domain and keep the main characteristics from the source domain. This model has
